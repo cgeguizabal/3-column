@@ -2,7 +2,10 @@
 
 This is a responsive 3-column preview card layout built as part of a [Frontend Mentor](https://www.frontendmentor.io) challenge. The layout showcases three types of cars — **Sedans**, **SUVs**, and **Luxury** — using clean and modern CSS Grid techniques, custom buttons, and color themes.
 
-[![Project Screenshot](assets/img/preview.png) ](https://cgeguizabal.github.io/3-column/)
+---
+# Preview
+https://cgeguizabal.github.io/3-column/
+---
 
 ## 🚀 Features
 
@@ -20,5 +23,5 @@ This is a responsive 3-column preview card layout built as part of a [Frontend M
   - [Lexend Deca](https://fonts.google.com/specimen/Lexend+Deca)
   - [Big Shoulders Display](https://fonts.google.com/specimen/Big+Shoulders+Display)
 
-## 📁 Project Structure
+
 
